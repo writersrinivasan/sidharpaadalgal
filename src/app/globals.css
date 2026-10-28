@@ -1,0 +1,102 @@
+@import "tailwindcss";
+
+:root {
+  --bg: #fff8ee;
+  --bg-soft: #fff1dc;
+  --card: #ffffff;
+  --ink: #2a1608;
+  --ink-soft: #6b4a32;
+  --line: #f1dcc0;
+  --saffron: #f97316;
+  --crimson: #be123c;
+  --turmeric: #f59e0b;
+  --peacock: #0e7490;
+  --indigo: #4338ca;
+  --leaf: #15803d;
+  --dot: rgba(190, 18, 60, 0.07);
+}
+
+@media (prefers-color-scheme: dark) {
+  :root {
+    --bg: #120a1f;
+    --bg-soft: #1b1030;
+    --card: #1f1436;
+    --ink: #fdf3e4;
+    --ink-soft: #cdb9a5;
+    --line: #3a2a55;
+    --saffron: #fb923c;
+    --crimson: #fb7185;
+    --turmeric: #fbbf24;
+    --peacock: #22d3ee;
+    --indigo: #a5b4fc;
+    --leaf: #4ade80;
+    --dot: rgba(251, 146, 60, 0.08);
+  }
+}
+
+@theme inline {
+  --color-bg: var(--bg);
+  --color-bg-soft: var(--bg-soft);
+  --color-card: var(--card);
+  --color-ink: var(--ink);
+  --color-ink-soft: var(--ink-soft);
+  --color-line: var(--line);
+  --color-saffron: var(--saffron);
+  --color-crimson: var(--crimson);
+  --color-turmeric: var(--turmeric);
+  --color-peacock: var(--peacock);
+  --color-indigo: var(--indigo);
+  --color-leaf: var(--leaf);
+  --font-sans: var(--font-catamaran), system-ui, sans-serif;
+  --font-verse: var(--font-noto-serif-tamil), var(--font-catamaran), serif;
+}
+
+html {
+  scroll-behavior: smooth;
+}
+
+body {
+  background-color: var(--bg);
+  /* kolam-like dot grid */
+  background-image: radial-gradient(var(--dot) 1.2px, transparent 1.2px);
+  background-size: 22px 22px;
+  color: var(--ink);
+  font-family: var(--font-sans);
+}
+
+.verse {
+  font-family: var(--font-verse);
+  line-height: 2;
+  letter-spacing: 0.01em;
+}
+
+.text-gradient {
+  background: linear-gradient(90deg, var(--saffron), var(--crimson) 50%, var(--indigo));
+  -webkit-background-clip: text;
+  background-clip: text;
+  color: transparent;
+}
+
+.rainbow-border {
+  border: 2px solid transparent;
+  background:
+    linear-gradient(var(--card), var(--card)) padding-box,
+    linear-gradient(120deg, var(--saffron), var(--crimson), var(--indigo), var(--peacock)) border-box;
+}
+
+.prose-story p + p {
+  margin-top: 0.9rem;
+}
+
+@keyframes float-slow {
+  0%, 100% { transform: translateY(0) rotate(0deg); }
+  50% { transform: translateY(-10px) rotate(3deg); }
+}
+.animate-float-slow {
+  animation: float-slow 7s ease-in-out infinite;
+}
+
+@media (prefers-reduced-motion: reduce) {
+  .animate-float-slow { animation: none; }
+  html { scroll-behavior: auto; }
+}

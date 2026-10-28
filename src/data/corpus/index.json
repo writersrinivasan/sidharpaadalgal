@@ -1,0 +1,408 @@
+[
+ {
+  "id": "thirumanthiram",
+  "siddhar": "thirumoolar",
+  "titleTa": "திருமந்திரம்",
+  "titleEn": "Thirumanthiram",
+  "count": 2777,
+  "source": [
+   "pm0004",
+   "pm0009_01",
+   "pm0009_02",
+   "pm0009_03",
+   "pm0010_01",
+   "pm0010_02",
+   "pm0010_03"
+  ]
+ },
+ {
+  "id": "thirumoolar-gnanam",
+  "siddhar": "thirumoolar",
+  "titleTa": "திருமூல நாயனார் ஞானம்",
+  "titleEn": "Thirumoola Nayanar Gnanam",
+  "count": 9,
+  "source": [
+   "pm0076"
+  ]
+ },
+ {
+  "id": "agathiyar-gnanam",
+  "siddhar": "agathiyar",
+  "titleTa": "அகஸ்தியர் ஞானம்",
+  "titleEn": "Agathiyar Gnanam",
+  "count": 50,
+  "source": [
+   "pm0859"
+  ]
+ },
+ {
+  "id": "subramaniar-gnanam",
+  "siddhar": "subramaniar",
+  "titleTa": "சுப்பிரமணியர் ஞானம்",
+  "titleEn": "Subramaniar Gnanam",
+  "count": 33,
+  "source": [
+   "pm0859"
+  ]
+ },
+ {
+  "id": "kakabhusundar-gnanam",
+  "siddhar": "kakabhusundar",
+  "titleTa": "காகபுசுண்டர் ஞானம்",
+  "titleEn": "Kakabhusundar Gnanam",
+  "count": 79,
+  "source": [
+   "pm0859"
+  ]
+ },
+ {
+  "id": "romarishi-gnanam",
+  "siddhar": "romarishi",
+  "titleTa": "உரோம ரிஷி ஞானம்",
+  "titleEn": "Romarishi Gnanam",
+  "count": 13,
+  "source": [
+   "pm0859"
+  ]
+ },
+ {
+  "id": "valmiki-gnanam",
+  "siddhar": "valmiki",
+  "titleTa": "வால்மீகர் சூத்திர ஞானம்",
+  "titleEn": "Valmikar Soothira Gnanam",
+  "count": 16,
+  "source": [
+   "pm0859"
+  ]
+ },
+ {
+  "id": "thiruvalluvar-gnanam",
+  "siddhar": "thiruvalluvar",
+  "titleTa": "திருவள்ளுவர் ஞானம்",
+  "titleEn": "Thiruvalluvar Gnanam",
+  "count": 10,
+  "source": [
+   "pm0076"
+  ]
+ },
+ {
+  "id": "konganar-padalgal",
+  "siddhar": "konganar",
+  "titleTa": "கொங்கணச் சித்தர் பாடல்கள்",
+  "titleEn": "Konganar Songs",
+  "count": 111,
+  "source": [
+   "pm0212"
+  ]
+ },
+ {
+  "id": "sivavakkiyam",
+  "siddhar": "sivavakkiyar",
+  "titleTa": "சிவவாக்கியம்",
+  "titleEn": "Sivavakkiyam",
+  "count": 525,
+  "source": [
+   "pm0269"
+  ]
+ },
+ {
+  "id": "thiruvidaimaruthur-mummanikkovai",
+  "siddhar": "pattinathar",
+  "titleTa": "திருவிடைமருதூர் மும்மணிக்கோவை",
+  "titleEn": "Thiruvidaimaruthur Mummanikkovai",
+  "count": 6,
+  "source": [
+   "pm0270"
+  ]
+ },
+ {
+  "id": "thirukkazhumala-mummanikkovai",
+  "siddhar": "pattinathar",
+  "titleTa": "திருக்கழுமல மும்மணிக்கோவை",
+  "titleEn": "Thirukkazhumala Mummanikkovai",
+  "count": 12,
+  "source": [
+   "pm0270"
+  ]
+ },
+ {
+  "id": "thiruvekambamudaiyar-thiruvanthathi",
+  "siddhar": "pattinathar",
+  "titleTa": "திருவேகம்பமுடையார் திருவந்தாதி",
+  "titleEn": "Thiruvekambamudaiyar Thiruvanthathi",
+  "count": 100,
+  "source": [
+   "pm0270"
+  ]
+ },
+ {
+  "id": "thiruvotriyur-thogai",
+  "siddhar": "pattinathar",
+  "titleTa": "திருவொற்றியூர்த் தொகை",
+  "titleEn": "Thiruvotriyur Thogai",
+  "count": 10,
+  "source": [
+   "pm0270"
+  ]
+ },
+ {
+  "id": "thiruvekambamalai",
+  "siddhar": "pattinathar",
+  "titleTa": "திருவேகம்பமாலை",
+  "titleEn": "Thiruvekambamalai",
+  "count": 42,
+  "source": [
+   "pm0083"
+  ]
+ },
+ {
+  "id": "thiruthillai",
+  "siddhar": "pattinathar",
+  "titleTa": "திருத்தில்லை",
+  "titleEn": "Thiruthillai",
+  "count": 20,
+  "source": [
+   "pm0083"
+  ]
+ },
+ {
+  "id": "koyil-thiruvagaval",
+  "siddhar": "pattinathar",
+  "titleTa": "கோயில் திருவகவல் (1–3)",
+  "titleEn": "Koyil Thiruvagaval (1–3)",
+  "count": 27,
+  "source": [
+   "pm0083"
+  ]
+ },
+ {
+  "id": "kachi-thiruvagaval",
+  "siddhar": "pattinathar",
+  "titleTa": "கச்சித் திருவகவல் & தனிப்பாடல்கள்",
+  "titleEn": "Kachi Thiruvagaval & Other Songs",
+  "count": 33,
+  "source": [
+   "pm0083"
+  ]
+ },
+ {
+  "id": "thiruppadal-thirattu",
+  "siddhar": "pattinathar",
+  "titleTa": "திருப்பாடற்றிரட்டு",
+  "titleEn": "Thiruppadal Thirattu",
+  "count": 124,
+  "source": [
+   "pm0270"
+  ]
+ },
+ {
+  "id": "arutpulambal",
+  "siddhar": "pattinathar",
+  "titleTa": "அருட்புலம்பல்",
+  "titleEn": "Arutpulambal",
+  "count": 203,
+  "source": [
+   "pm0276_01"
+  ]
+ },
+ {
+  "id": "nenjodu-pulambal",
+  "siddhar": "pattinathar",
+  "titleTa": "நெஞ்சொடு புலம்பல்",
+  "titleEn": "Nenjodu Pulambal",
+  "count": 37,
+  "source": [
+   "pm0276_01"
+  ]
+ },
+ {
+  "id": "poorana-malai",
+  "siddhar": "pattinathar",
+  "titleTa": "பூரணமாலை",
+  "titleEn": "Poorana Malai",
+  "count": 102,
+  "source": [
+   "pm0276_02"
+  ]
+ },
+ {
+  "id": "nenjodu-magizhthal",
+  "siddhar": "pattinathar",
+  "titleTa": "நெஞ்சொடு மகிழ்தல்",
+  "titleEn": "Nenjodu Magizhthal",
+  "count": 32,
+  "source": [
+   "pm0276_02"
+  ]
+ },
+ {
+  "id": "udarkootru-vannam",
+  "siddhar": "pattinathar",
+  "titleTa": "உடற்கூற்று வண்ணம்",
+  "titleEn": "Udarkootru Vannam",
+  "count": 4,
+  "source": [
+   "pm0276_02"
+  ]
+ },
+ {
+  "id": "meignana-pulambal",
+  "siddhar": "bhadragiriyar",
+  "titleTa": "மெய்ஞ்ஞானப் புலம்பல்",
+  "titleEn": "Meignana Pulambal",
+  "count": 231,
+  "source": [
+   "pm0074"
+  ]
+ },
+ {
+  "id": "idaikkadar-padalgal",
+  "siddhar": "idaikkadar",
+  "titleTa": "இடைக்காட்டுச் சித்தர் பாடல்கள்",
+  "titleEn": "Idaikkadar Songs",
+  "count": 130,
+  "source": [
+   "pm0212"
+  ]
+ },
+ {
+  "id": "machamuni-padal",
+  "siddhar": "machamuni",
+  "titleTa": "நொண்டிச் சித்தர் (மச்சேந்திர நாதர்) பாடல்",
+  "titleEn": "Nondi Siddhar (Machendranathar) Song",
+  "count": 33,
+  "source": [
+   "pm0858"
+  ]
+ },
+ {
+  "id": "ramadevar-poojavidhi",
+  "siddhar": "ramadevar",
+  "titleTa": "இராமதேவர் பூஜாவிதி",
+  "titleEn": "Ramadevar Pooja Vidhi",
+  "count": 10,
+  "source": [
+   "pm0076"
+  ]
+ },
+ {
+  "id": "sattaimuni-gnanam",
+  "siddhar": "sattaimuni",
+  "titleTa": "சட்டைமுனி ஞானம்",
+  "titleEn": "Sattaimuni Gnanam",
+  "count": 6,
+  "source": [
+   "pm0076"
+  ]
+ },
+ {
+  "id": "pambatti-padal",
+  "siddhar": "pambatti",
+  "titleTa": "பாம்பாட்டிச் சித்தர் பாடல்",
+  "titleEn": "Pambatti Siddhar Song",
+  "count": 129,
+  "source": [
+   "pm0857"
+  ]
+ },
+ {
+  "id": "agappei-padalgal",
+  "siddhar": "agappei",
+  "titleTa": "அகப்பேய்ச் சித்தர் பாடல்கள்",
+  "titleEn": "Agappei Siddhar Songs",
+  "count": 90,
+  "source": [
+   "pm0212"
+  ]
+ },
+ {
+  "id": "kudhambai-padalgal",
+  "siddhar": "kudhambai",
+  "titleTa": "குதம்பைச் சித்தர் பாடல்கள்",
+  "titleEn": "Kudhambai Siddhar Songs",
+  "count": 32,
+  "source": [
+   "pm0076"
+  ]
+ },
+ {
+  "id": "azhukani-padalgal",
+  "siddhar": "azhukani",
+  "titleTa": "அழுகணிச் சித்தர் பாடல்கள்",
+  "titleEn": "Azhukani Siddhar Songs",
+  "count": 40,
+  "source": [
+   "pm0076"
+  ]
+ },
+ {
+  "id": "kaduveli-ananda-kalippu",
+  "siddhar": "kaduveli",
+  "titleTa": "கடுவெளிச் சித்தர் ஆனந்தக் களிப்பு",
+  "titleEn": "Kaduveli Siddhar – Ananda Kalippu",
+  "count": 34,
+  "source": [
+   "pm0076"
+  ]
+ },
+ {
+  "id": "mouna-siddhar-padal",
+  "siddhar": "mouna",
+  "titleTa": "மௌனச் சித்தர் (வகுளிநாதர்) பாடல்",
+  "titleEn": "Mouna Siddhar (Vakulinathar) Song",
+  "count": 12,
+  "source": [
+   "pm0858"
+  ]
+ },
+ {
+  "id": "punnakku-padal",
+  "siddhar": "punnakku",
+  "titleTa": "புண்ணாக்குச் சித்தர் பாடல்",
+  "titleEn": "Punnakku Siddhar Song",
+  "count": 20,
+  "source": [
+   "pm0858"
+  ]
+ },
+ {
+  "id": "kanjamalai-padal",
+  "siddhar": "kanjamalai",
+  "titleTa": "கஞ்சமலைச் சித்தர் பாடல்",
+  "titleEn": "Kanjamalai Siddhar Song",
+  "count": 25,
+  "source": [
+   "pm0858"
+  ]
+ },
+ {
+  "id": "sangili-padal",
+  "siddhar": "sangili",
+  "titleTa": "சங்கிலிச் சித்தர் பாடல்",
+  "titleEn": "Sangili Siddhar Song",
+  "count": 36,
+  "source": [
+   "pm0857"
+  ]
+ },
+ {
+  "id": "thirikona-padal",
+  "siddhar": "thirikona",
+  "titleTa": "திரிகோணச் சித்தர் பாடல்",
+  "titleEn": "Thirikona Siddhar Song",
+  "count": 90,
+  "source": [
+   "pm0857"
+  ]
+ },
+ {
+  "id": "gnana-kummi",
+  "siddhar": "valaisami",
+  "titleTa": "ஞானக்கும்மி",
+  "titleEn": "Gnana Kummi",
+  "count": 185,
+  "source": [
+   "pm0853_02"
+  ]
+ }
+]
